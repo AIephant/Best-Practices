@@ -1,5 +1,22 @@
 # Collection of articles containing best practices for genAI use at different stages of the research process.
 
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+}
+table th:nth-of-type(4) {
+    width: 40%;
+}
+</style>
+
+
+
 | Reference | Link | Focus | Main Takeaways |
 | :--------- |:---|:----|:------------|
 | van Berlo, Z. M., Campbell, C., & Voorveld, H. A. (2024). The MADE framework: Best practices for creating effective experimental stimuli using generative AI. Journal of Advertising, 53(5), 732-753. | https://doi.org/10.1080/00913367.2024.2397777 | GenAI in stimulus creation | 1. Structured Use of GenAI: The MADE framework (Mapping, Assembling, Demonstrating, Executing) provides a systematic process for using generative AI to create valid, reliable, and transparent experimental stimuli.<br>2. Methodological Rigor and Reproducibility: Proper documentation, pretesting, and evaluation of AI-generated content are essential to ensure replicability and minimize bias or uncontrolled variation in experiments.<br>3. Ethical and Transparent Practice: Researchers should disclose how generative AI was used, consider ethical implications (e.g., authenticity, consent, bias), and maintain transparency throughout the research process.|

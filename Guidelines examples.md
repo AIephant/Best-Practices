@@ -1,20 +1,5 @@
 # Collection of articles containing best practices for genAI use at different stages of the research process.
 
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 20%;
-}
-table th:nth-of-type(3) {
-    width: 20%;
-}
-table th:nth-of-type(4) {
-    width: 40%;
-}
-</style>
-
 
 
 | Reference | Link | Focus | Main Takeaways |
